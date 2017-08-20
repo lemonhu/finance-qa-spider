@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//finance_qa_spider/cmdline.py=utf-8
+encoding//finance_qa_spider/items.py=utf-8
+encoding//finance_qa_spider/middlewares.py=utf-8
+encoding//finance_qa_spider/pipelines.py=utf-8
+encoding//finance_qa_spider/settings.py=utf-8
+encoding//finance_qa_spider/spiders/shse_qa_spider.py=utf-8
